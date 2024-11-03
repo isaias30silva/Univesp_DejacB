@@ -54,34 +54,35 @@ Com o funcionamento do backend, o próximo passo será baixar o projeto frontend
 
 **Equipe de desenvolvimento**
 
-<div align="center">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-        <div style="margin: 10px; text-align: center;">
-            <img src="imagens/Bruno_Gabriel.jpg" alt="Bruno Gabriel" style="width: 100px; height: auto;">
-            <p>Bruno Gabriel</p>
-        </div>
-        <div style="margin: 10px; text-align: center;">
-            <img src="imagens/Bruno_Malvao.jpg" alt="Bruno Malvão" style="width: 100px; height: auto;">
-            <p>Bruno Malvão</p>
-        </div>
-        <div style="margin: 10px; text-align: center;">
-            <img src="imagens/Denise_Fachini.jpg" alt="Denise" style="width: 100px; height: auto;">
-            <p>Denise</p>
-        </div>
-        <div style="margin: 10px; text-align: center;">
-            <img src="imagens/Isaias.jpg" alt="Isaias" style="width: 100px; height: auto;">
-            <p>Isaias</p>
-        </div>
-        <div style="margin: 10px; text-align: center;">
-            <img src="imagens/Rodrigo_Azevedo.png" alt="Rodrigo" style="width: 100px; height: auto;">
-            <p>Rodrigo</p>
-        </div>
-        <div style="margin: 10px; text-align: center;">
-            <img src="imagens/Rodolfo.jpg" alt="Rodolfo" style="width: 100px; height: auto;">
-            <p>Rodolfo</p>
-        </div>
-    </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="imagens/Bruno_Gabriel.jpg" alt="Bruno Gabriel" style="width: 100px; height: auto;">
+      <p>Bruno Gabriel</p>
+    </td>
+    <td align="center">
+      <img src="imagens/Bruno_Malvao.jpg" alt="Bruno Malvão" style="width: 100px; height: auto;">
+      <p>Bruno Malvão</p>
+    </td>
+    <td align="center">
+      <img src="imagens/Denise_Fachini.jpg" alt="Denise" style="width: 100px; height: auto;">
+      <p>Denise</p>
+    </td>
+    <td align="center">
+      <img src="imagens/Isaias.jpg" alt="Isaias" style="width: 100px; height: auto;">
+      <p>Isaias</p>
+    </td>
+    <td align="center">
+      <img src="imagens/Rodrigo_Azevedo.png" alt="Rodrigo" style="width: 100px; height: auto;">
+      <p>Rodrigo</p>
+    </td>
+    <td align="center">
+      <img src="imagens/Rodolfo.jpg" alt="Rodolfo" style="width: 100px; height: auto;">
+      <p>Rodolfo</p>
+    </td>
+  </tr>
+</table>
+
 
 
 
