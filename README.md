@@ -69,8 +69,9 @@ Com o funcionamento do backend, o próximo passo será baixar o projeto frontend
       <p>Denise</p>
     </td>
     <td align="center">
-      <img src="imagens/Isaias.jpg" alt="Isaias" style="width: 100px; height: auto;">
-      <p>Isaias</p>
+          <img src="imagens/Isaias.jpg" alt="Isaias" style="width: 100px; height: auto;">
+          <p><a href="https://www.linkedin.com/in/isaias-menezes-silva/">Isaias</a></p>
+        </td>
     </td>
     <td align="center">
       <img src="imagens/Rodrigo_Azevedo.png" alt="Rodrigo" style="width: 100px; height: auto;">
