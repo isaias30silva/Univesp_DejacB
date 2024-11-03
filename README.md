@@ -19,13 +19,14 @@ Ao acessar a aplicação, é possível obter informações relacionadas ao ender
 
 **Tecnologias**
 
-Linguagem de desenvolvimento: JavaScript / TypeScript
-Linguagem de marcação e estilização: HTML, CSS
-Banco de Dados - Firebase Database (Nuvem)
-Utilização da API dos correios: `https://viacep.com.br/ws/${cep}/json/`
-Acessibilidade: narração dos textos da tela inicial, com a utilização do recurso speakText
-Controle de versão: Git/Github
 </div>
+
+- Linguagem de desenvolvimento: JavaScript / TypeScript
+- Linguagem de marcação e estilização: HTML, CSS
+- Banco de Dados - Firebase Database (Nuvem)
+- Utilização da API dos correios: `https://viacep.com.br/ws/${cep}/json/`
+- Acessibilidade: narração dos textos da tela inicial, com a utilização do recurso speakText
+- Controle de versão: Git/Github
 
 <div align="center">
 
