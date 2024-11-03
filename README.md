@@ -10,10 +10,11 @@
 
 **Objetivo**
 
+</div>
+
 A aplicação DEJAC - Descarte de Eletrônicos em Jacareí é um projeto que utiliza diversas tecnologias para apresentar dados referentes a locais de entrega voluntária de materiais eletrônicos em Jacareí.
 
 Ao acessar a aplicação, é possível obter informações relacionadas ao endereço, telefone e email dos locais, de forma a obter mais detalhes sobre o serviço de coleta e reciclagem, bem como realizar o agendamento da entrega e saber quais produtos podem ou não ser encaminhados para os pontos de entrega.
-</div>
 
 <div align="center">
 
@@ -32,9 +33,9 @@ Ao acessar a aplicação, é possível obter informações relacionadas ao ender
 
 **Ferramenta de desenvolvimento**
 
-Visual Studio Code (VS Code)
-
 </div>
+
+Visual Studio Code (VS Code)
 
 <div align="center">
 
