@@ -39,29 +39,48 @@ Visual Studio Code (VS Code)
 
 **Como executar o projeto**
 
-- criar uma pasta para o projeto
-- abrir o VSCODE, clicar em Abrir Pasta e localizar a pasta criada. Abrir um terminal e executar o comando: git clone git@github.com:isaias30silva/Univesp_DejacB.git
-- executar o comando npm install 
-- executar o comando npm install firebase
-- executar o comando npm install firebase-admin
-- para rodar o projeto, executar o comando npm start
-- se tudo estiver funcionando corretamente, o back-end estará rodando na url: http://localhost:8800/ e apresentará a mensagem "Sevidor está funcionando!"
-
-
-- com o funcionamento do backend, o próximo passo será baixar o projeto frontend, disponível em:
-git@github.com:isaias30silva/Univesp_Dejac.git
-
 </div>
 
-<div align="center">
+- Criar uma pasta para o projeto
+- Abrir o VSCODE, clicar em "Abrir Pasta" e localizar a pasta criada. Abrir um terminal e executar o comando: `git clone git@github.com:isaias30silva/Univesp_DejacB.git`
+- Executar o comando `npm install`
+- Executar o comando `npm install firebase`
+- Executar o comando `npm install firebase-admin`
+- Para rodar o projeto, executar o comando `npm start`
+- Se tudo estiver funcionando corretamente, o back-end estará rodando na URL: [http://localhost:8800/](http://localhost:8800/) e apresentará a mensagem "Servidor está funcionando!"
+
+Com o funcionamento do backend, o próximo passo será baixar o projeto frontend, disponível em:  
+`git@github.com:isaias30silva/Univesp_Dejac.git`
 
 **Equipe de desenvolvimento**
 
-![Bruno Gabriel](imagens/Bruno_Gabriel.jpg)
-![Bruno Malvão](imagens/Bruno_Malvao.jpg)
-![Denise](imagens/Denise_Fachini.jpg)
-![Isaias](imagens/Isaias.jpg)
-![Rodrigo](imagens/Rodrigo_Azevedo.png)
-![Rodolfo](imagens/Rodolfo.jpg)
+<div align="center">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+        <div style="margin: 10px; text-align: center;">
+            <img src="imagens/Bruno_Gabriel.jpg" alt="Bruno Gabriel" style="width: 100px; height: auto;">
+            <p>Bruno Gabriel</p>
+        </div>
+        <div style="margin: 10px; text-align: center;">
+            <img src="imagens/Bruno_Malvao.jpg" alt="Bruno Malvão" style="width: 100px; height: auto;">
+            <p>Bruno Malvão</p>
+        </div>
+        <div style="margin: 10px; text-align: center;">
+            <img src="imagens/Denise_Fachini.jpg" alt="Denise" style="width: 100px; height: auto;">
+            <p>Denise</p>
+        </div>
+        <div style="margin: 10px; text-align: center;">
+            <img src="imagens/Isaias.jpg" alt="Isaias" style="width: 100px; height: auto;">
+            <p>Isaias</p>
+        </div>
+        <div style="margin: 10px; text-align: center;">
+            <img src="imagens/Rodrigo_Azevedo.png" alt="Rodrigo" style="width: 100px; height: auto;">
+            <p>Rodrigo</p>
+        </div>
+        <div style="margin: 10px; text-align: center;">
+            <img src="imagens/Rodolfo.jpg" alt="Rodolfo" style="width: 100px; height: auto;">
+            <p>Rodolfo</p>
+        </div>
+    </div>
 </div>
+
 
